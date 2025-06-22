@@ -8,7 +8,7 @@ Algoritmo program_14_condicionales_simples
 	Leer numero_usuario;
 	
 	Si numero_usuario > 100 Entonces
-		numero_usuario = numero_usuario + (numero_usuario* 0.10);
+		numero_usuario <- numero_usuario + (numero_usuario* 0.10);
 		Escribir "El numero mas el porcentaje es:",numero_usuario;
 	SiNo
 		Escribir "El numero es :",numero_usuario;

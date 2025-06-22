@@ -7,8 +7,8 @@ Algoritmo program_11_logica2
 	Escribir "Ingrese la longitud del metro:";
 	Leer metro;
 	
-	cm = metro*100;
-	mm = metro*1000
+	cm <- metro*100;
+	mm <- metro*1000
 	
 	Escribir "La longitud de:",metro," a cm es:",cm," y a mm es:",mm;
 	

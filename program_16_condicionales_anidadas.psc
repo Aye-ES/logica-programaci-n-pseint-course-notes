@@ -19,7 +19,7 @@ Algoritmo program_16_condicionales_anidadas
 		FinSi
 	FinSi
 FinAlgoritmo
-//RECORDAR:basta que se cumpla una condicion y se ignora o se deja de 
+//RECORDAR:basta que se cumpla una condicion, se ignora o se deja de 
 //ejecutar el resto de las demas condiciones,no importa cuantas 
 //condiciones por debajo nosotros hallamos colocado, solo en el caso 
 //de que no se cumpla la primera condicion pasa a evaluar la siguiente 

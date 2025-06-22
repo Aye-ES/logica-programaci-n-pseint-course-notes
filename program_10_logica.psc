@@ -6,12 +6,12 @@ Algoritmo program_10_logica
 	Definir ca, cb Como Entero;
 	Definir h Como Real;
 	
-	Escribir "Ingrese el valor del cateto ¨a¨ :";
+	Escribir "Ingrese el valor del cateto a :";
 	Leer ca;
 	
-	Escribir "Ingrese el valor del cateto ¨b¨ :";
+	Escribir "Ingrese el valor del cateto b :";
 	Leer cb;
 	
-	h = RC(ca^2 + cb^2)
+	h <- Raiz(ca^2 + cb^2)
 	Escribir "La hipotenusa del triangulo rectangulo es:",h;
 FinAlgoritmo

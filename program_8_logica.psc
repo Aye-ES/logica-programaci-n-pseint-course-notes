@@ -1,4 +1,4 @@
-//Diseña un programa que calcule la velocidad promedio de un 
+//Diseï¿½a un programa que calcule la velocidad promedio de un 
 //vehiculo dado el tiempo y la distancia recorrida.
 Algoritmo program_8_logica
 	//d = v * t
@@ -11,6 +11,6 @@ Algoritmo program_8_logica
 	Escribir "Instroduzca valor para el tiempo (segundos):";
 	Leer t;
 	
-	v = d/t
+	v <- d/t
 	Escribir "La velocidad promedio del vehiculo es:",v," m/s";	
 FinAlgoritmo
