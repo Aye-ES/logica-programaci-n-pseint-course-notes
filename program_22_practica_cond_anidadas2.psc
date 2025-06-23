@@ -1,6 +1,6 @@
 Algoritmo program_22_practica_cond_anidadas2
-Definir costo_unitario, monto_total, cantidad_unidades como Entero;
-Definir precio_final como Real;
+Definir cantidad_unidades como Entero;
+Definir monto_total, costo_unitario, precio_final como Real;
 
 
 Escribir "Por favor, ingrese el costo unitario del producto:";
