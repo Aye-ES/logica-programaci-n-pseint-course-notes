@@ -1,3 +1,10 @@
+//Cree un algoritmo que permita ingresar el costo unitaio de un articulo
+//y la cantidad de unidades que comprara
+//si se compran 100 o mas unidades se aplica un descuento del 40%
+//si se compran entre 26 y 99 unidades se aplica un descuento del 20%
+//si se compran entre 10 y 25 unidades se aplica un descuento del 12%
+//si se compran menos de 10 unidades no se aplica descuento
+//El programa debe mostrar el precio final del producto con el descuento si este se aplica
 Algoritmo program_22_practica_cond_anidadas2
 Definir cantidad_unidades como Entero;
 Definir monto_total, costo_unitario, precio_final como Real;

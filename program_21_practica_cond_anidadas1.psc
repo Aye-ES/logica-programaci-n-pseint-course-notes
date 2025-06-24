@@ -1,4 +1,8 @@
-
+//Elabore un algoritmo que permita ingresar por teclado una nota de un estudiante
+//si la nota es entre 0 y 5 imprimir "el desempeño es pesimo"
+//si la nota es entre 6 y 10 imprimir "el desempeño es deficiente"
+//si la nota es entre 11 y 15 imprimir "el desempeño es regular"
+//si la nota es entre 16 y 20 imprimir "el desempeño es excelente"
 Algoritmo program_21_practica_cond_anidadas1
     Definir nota como Entero;
 
